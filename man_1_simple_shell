@@ -1,0 +1,7 @@
+.TH HSH 1 "Version 1.0" "05 MAY 2022 "General Commands Manual" 
+.SH NAME
+ .hsh - simple shell implementation
+.SH SYNOPSIS
+
+.SH AUTHORS
+Nixon Okoth and David Joel of ALX holberton
